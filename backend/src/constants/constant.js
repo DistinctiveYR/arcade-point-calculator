@@ -1,0 +1,4 @@
+const PORT = 4000
+const SPREADSHEET_ID = '1K0_IhMxsnPUQEUleq7fx36SeQ_KVTHTGiEoL9VnMY8k'
+
+module.exports = { PORT, SPREADSHEET_ID }
